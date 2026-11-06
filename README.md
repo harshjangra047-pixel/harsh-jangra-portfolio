@@ -144,8 +144,8 @@ npm run preview
 
 The website is continuously deployed on **Vercel** with automatic triggers on every push to the `main` branch.
 
-- **Production URL:** *[Configured upon Vercel link]*
-- **Repository:** `harsh-jangra-portfolio`
+- **Live Production URL:** [https://potfolio-ten-rust.vercel.app](https://potfolio-ten-rust.vercel.app)
+- **GitHub Repository:** [https://github.com/harshjangra047-pixel/harsh-jangra-portfolio](https://github.com/harshjangra047-pixel/harsh-jangra-portfolio)
 
 ---
 
@@ -155,3 +155,4 @@ The website is continuously deployed on **Vercel** with automatic triggers on ev
 - **Email:** [harshjangra047@gmail.com](mailto:harshjangra047@gmail.com)
 - **GitHub:** [harshjangra047-pixel](https://github.com/harshjangra047-pixel)
 - **Location:** India
+
